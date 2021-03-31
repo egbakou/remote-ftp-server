@@ -1,4 +1,4 @@
-## Connect to  remote FTP Server
+## FTP Server
 
 In this sample, i use the Wing FTP Server Online Demo.
 
