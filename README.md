@@ -14,13 +14,13 @@ In this sample, i use the Wing FTP Server Online Demo.
 
 ## Files hosted on the FTP Server
 
-![server](../remote-ftp-server/screenshots/server.png)
+![server](screenshots/server.png)
 
 
 
 ## Result
 
-![server](../remote-ftp-server/screenshots/result.png)
+![server](screenshots/result.png)
 
 
 
