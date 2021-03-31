@@ -40,7 +40,6 @@ namespace RemoteFTPServer
                         Console.WriteLine("File!  " + item.FullName);
                         Console.WriteLine("File size:  " +  ByteSize.FromBytes(item.Size).MegaBytes.ToString() + " Mo");
                         Console.WriteLine("Modified date:  " + await conn.GetModifiedTimeAsync(item.FullName));
-                        Console.WriteLine("--------------------------------------------------");
                         break;
 
                     case FtpFileSystemObjectType.Link:
